@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GoldFireTestPanel" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#38BDF8</item>
+        <item name="colorPrimaryVariant">#0284C7</item>
+        <item name="colorSecondary">#A855F7</item>
+        <item name="android:statusBarColor">#06070A</item>
+        <item name="android:navigationBarColor">#06070A</item>
+        <item name="android:windowBackground">#06070A</item>
+    </style>
+</resources>

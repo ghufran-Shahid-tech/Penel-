@@ -1,0 +1,8 @@
+{
+  "name": "GOLD FIRE — ADVANCED TEST PANEL",
+  "description": "Standalone Android game security and anti-cheat verification panel for authorized Gold Fire QA testing, complete with Kotlin, C++17 NDK, Python FastAPI, and HTML5/CSS3/JS source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

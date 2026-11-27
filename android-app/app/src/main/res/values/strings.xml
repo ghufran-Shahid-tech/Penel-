@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GOLD FIRE — ADVANCED TEST PANEL</string>
+    <string name="overlay_consent_title">Enable Floating Security Panel</string>
+    <string name="overlay_consent_message">Gold Fire Test Panel uses Android\'s Display Over Other Apps permission solely to show a movable QA testing overlay while verifying your own Gold Fire test build. It does not inspect or modify private memory of other applications.</string>
+    <string name="overlay_notification_title">Gold Fire Floating Test Panel Active</string>
+    <string name="overlay_notification_body">Authorized QA anti-cheat testing overlay is running.</string>
+</resources>
